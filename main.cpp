@@ -25,17 +25,17 @@ int main()
 	x2 = z2.real();
 	y2 = z2.imag();
 
-	if (x1 > x2) {
-		x3 = x1 + 10;
+	if (abs(x1) > abs(x2)) {
+		x3 = abs(x1) + 10;
 	}
 	else {
-		x3 = x2 + 10;
+		x3 = abs(x2) + 10;
 	}
-	if (y1 > y2) {
-		y3 = y1 + 10;
+	if (abs(y1) > abs(y2)) {
+		y3 = abs(y1) + 10;
 	}
 	else {
-		y3 = y2 + 10;
+		y3 = abs(y2) + 10;
 	}
 
 	std::cout << "z1 = " << z1;

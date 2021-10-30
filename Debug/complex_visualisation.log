@@ -1,0 +1,676 @@
+﻿  pbPlots.cpp
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(126,31): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(148,50): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(190,42): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(192,30): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(194,39): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(214,80): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(220,55): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(229,30): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(232,44): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(233,41): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(246,55): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(263,42): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(265,30): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(267,39): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(287,80): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(294,55): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(303,30): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(306,44): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(307,41): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(320,55): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(370,35): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(371,55): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(372,49): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(376,19): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(408,33): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(411,29): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(419,29): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(503,73): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(532,65): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(553,36): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(554,36): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(566,65): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(655,32): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(662,32): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(722,20): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(763,30): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(765,45): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(781,30): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(783,45): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(799,44): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(814,22): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(815,22): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(860,22): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(861,22): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(923,44): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(965,46): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1007,46): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1072,57): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1081,53): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1098,36): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1109,57): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1168,68): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1169,68): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1200,32): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1215,20): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1228,37): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1231,24): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1238,35): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1258,42): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1260,25): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1293,33): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1295,50): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1315,39): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1343,42): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1335,20): warning C4101: height: неиспользованная локальная переменная
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1335,13): warning C4101: width: неиспользованная локальная переменная
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1395,38): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1405,38): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1465,28): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1471,28): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1494,36): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1500,36): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1519,65): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1547,28): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1548,28): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1549,29): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1550,29): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1557,12): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1558,12): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1562,13): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1563,13): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1568,65): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1663,39): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1665,18): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1666,18): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1666,45): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1668,20): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1668,30): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1683,27): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1683,37): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1685,25): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1705,18): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1705,28): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1706,18): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1706,28): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1707,18): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1707,28): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1708,18): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1708,28): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1722,23): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1722,33): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1723,23): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1723,33): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1724,23): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1724,33): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1725,23): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1725,33): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1733,18): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1733,28): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1734,18): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1734,28): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1735,18): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1735,28): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1736,18): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1736,28): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1771,55): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1771,65): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1938,41): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1938,51): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1945,23): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1945,33): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1954,23): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1954,33): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1955,45): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(1955,57): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2284,23): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2308,25): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2323,31): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2350,31): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2371,31): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2392,31): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2404,31): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2465,26): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2465,36): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2467,40): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2467,50): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2468,40): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2468,50): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2469,40): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2469,50): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2504,33): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2591,37): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2690,58): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2752,49): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2758,24): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2766,45): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2791,14): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2794,20): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2814,49): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2822,52): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2825,36): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2825,85): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2833,53): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2834,51): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2848,12): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2855,53): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2863,55): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2866,39): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2866,88): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2874,55): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2885,35): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2885,54): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2888,53): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2904,29): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2904,48): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2908,16): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2911,22): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2920,55): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2928,55): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2931,39): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2931,88): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2970,24): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(2986,24): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3025,38): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3028,17): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3030,43): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3270,27): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3286,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3419,29): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3422,11): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3424,15): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3424,35): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3424,50): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3441,15): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3441,31): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3452,16): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3452,31): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3452,30): warning C4244: =: преобразование "_Ty" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty=wchar_t
+          ]
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3463,16): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3463,28): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3480,16): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3480,28): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3497,16): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3497,28): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3511,11): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3518,11): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3525,11): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3535,18): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3552,18): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3569,18): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3586,11): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3586,22): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3598,11): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3598,22): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3610,11): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3610,22): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3622,29): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3625,13): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3625,29): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3643,27): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3646,13): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3646,29): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3664,30): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3667,13): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3667,29): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3684,31): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3692,29): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3700,32): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3708,15): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3709,9): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3709,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3710,9): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3715,28): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3716,22): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3716,47): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3717,22): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3747,41): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3750,27): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3788,42): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3791,26): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3813,38): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3816,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3838,52): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3841,26): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3850,50): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3937,26): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3937,36): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3948,33): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3948,43): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3959,32): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(3959,50): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4013,30): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4018,40): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4054,63): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4080,35): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4085,19): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4088,27): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4088,37): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4089,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4091,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4093,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4095,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4109,35): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4114,19): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4117,27): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4117,37): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4118,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4145,27): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4164,16): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4170,34): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4174,16): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4177,22): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4177,45): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4197,16): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4259,28): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4261,12): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4272,34): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4273,28): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=wchar_t
+          ]
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4274,28): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=wchar_t
+          ]
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4275,28): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=wchar_t
+          ]
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4276,28): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=wchar_t
+          ]
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4286,35): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4286,50): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4291,19): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4319,28): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4322,13): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4322,34): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4343,19): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4343,31): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4347,30): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4347,44): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4364,51): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4367,19): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4367,35): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4378,42): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4393,19): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4420,26): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4420,48): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4450,19): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4464,16): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4464,48): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4471,16): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4471,48): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4481,32): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4481,61): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4498,33): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4510,56): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4521,33): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4524,19): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4527,56): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4542,36): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4553,36): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4563,35): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4595,41): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4597,31): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4599,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4605,35): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4631,16): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4631,28): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4634,38): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4634,48): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4637,38): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4637,48): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4655,27): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4658,11): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4686,27): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4703,20): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4707,20): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4709,20): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4713,20): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4715,20): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4717,20): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4719,20): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4723,20): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4725,20): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4729,20): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4731,20): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4733,20): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4735,20): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4742,16): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4750,34): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4761,18): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4770,44): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4771,34): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4791,33): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4794,17): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4794,36): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4831,46): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4833,17): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4833,31): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4848,46): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4853,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4853,35): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4856,23): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4856,41): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4868,32): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4877,56): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4880,17): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4880,31): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4895,56): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4900,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4900,35): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4903,23): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4903,41): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4915,32): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4924,44): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4926,17): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4926,31): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4941,44): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4946,21): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4946,35): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4949,23): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4949,41): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4961,33): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4992,41): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4995,15): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(4996,15): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5042,41): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5044,13): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5150,35): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5163,31): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5166,15): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5179,39): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5236,32): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5239,15): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5275,35): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5284,35): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5294,19): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5302,34): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5305,18): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5305,37): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5328,34): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5331,18): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5331,37): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5339,24): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5352,19): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5352,40): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5355,17): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5360,17): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5366,19): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5366,40): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5383,33): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5386,15): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5386,34): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5412,19): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5412,34): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5433,23): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5433,42): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5450,43): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5465,37): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5468,19): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5478,47): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5480,17): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5480,31): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5495,47): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5500,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5500,35): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5503,23): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5503,41): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(5515,27): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(6130,16): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(6155,34): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(6144,18): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(6172,16): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(6194,27): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(6223,35): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(6243,44): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(6292,23): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(6292,44): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(6320,34): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(6323,15): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(6352,53): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(6365,55): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(6388,44): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(6480,44): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(6493,17): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(6493,46): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(6502,17): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(6502,46): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(6523,17): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(6523,46): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(6537,17): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Rosatom\source\repos\complex_visualisation\include\pbPlots.cpp(6537,46): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+  supportLib.cpp
+C:\Users\Rosatom\source\repos\complex_visualisation\include\supportLib.cpp(12,20): warning C4244: =: преобразование "_Ty" в "unsigned char", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+  main.cpp
+  fparser.cc
+  fpoptimizer.cc
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(24,9): warning C4068: неизвестная прагма "GCC"
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,13): warning C4838: Преобразование из "crc32::b8<4>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,13): warning C4838: Преобразование из "crc32::b8<5>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,13): warning C4838: Преобразование из "crc32::b8<6>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,13): warning C4838: Преобразование из "crc32::b8<7>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,13): warning C4838: Преобразование из "crc32::b8<8>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,13): warning C4838: Преобразование из "crc32::b8<9>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,13): warning C4838: Преобразование из "crc32::b8<10>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,13): warning C4838: Преобразование из "crc32::b8<11>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,21): warning C4838: Преобразование из "crc32::b8<16>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,21): warning C4838: Преобразование из "crc32::b8<17>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,21): warning C4838: Преобразование из "crc32::b8<18>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,21): warning C4838: Преобразование из "crc32::b8<19>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,21): warning C4838: Преобразование из "crc32::b8<28>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,21): warning C4838: Преобразование из "crc32::b8<29>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,21): warning C4838: Преобразование из "crc32::b8<30>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,21): warning C4838: Преобразование из "crc32::b8<31>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,29): warning C4838: Преобразование из "crc32::b8<32>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,29): warning C4838: Преобразование из "crc32::b8<33>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,29): warning C4838: Преобразование из "crc32::b8<34>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,29): warning C4838: Преобразование из "crc32::b8<35>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,29): warning C4838: Преобразование из "crc32::b8<44>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,29): warning C4838: Преобразование из "crc32::b8<45>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,29): warning C4838: Преобразование из "crc32::b8<46>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,29): warning C4838: Преобразование из "crc32::b8<47>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,37): warning C4838: Преобразование из "crc32::b8<52>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,37): warning C4838: Преобразование из "crc32::b8<53>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,37): warning C4838: Преобразование из "crc32::b8<54>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,37): warning C4838: Преобразование из "crc32::b8<55>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,37): warning C4838: Преобразование из "crc32::b8<56>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,37): warning C4838: Преобразование из "crc32::b8<57>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,37): warning C4838: Преобразование из "crc32::b8<58>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,37): warning C4838: Преобразование из "crc32::b8<59>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,45): warning C4838: Преобразование из "crc32::b8<64>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,45): warning C4838: Преобразование из "crc32::b8<65>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,45): warning C4838: Преобразование из "crc32::b8<66>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,45): warning C4838: Преобразование из "crc32::b8<67>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,45): warning C4838: Преобразование из "crc32::b8<76>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,45): warning C4838: Преобразование из "crc32::b8<77>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,45): warning C4838: Преобразование из "crc32::b8<78>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,45): warning C4838: Преобразование из "crc32::b8<79>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,53): warning C4838: Преобразование из "crc32::b8<84>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,53): warning C4838: Преобразование из "crc32::b8<85>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,53): warning C4838: Преобразование из "crc32::b8<86>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,53): warning C4838: Преобразование из "crc32::b8<87>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,53): warning C4838: Преобразование из "crc32::b8<88>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,53): warning C4838: Преобразование из "crc32::b8<89>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,53): warning C4838: Преобразование из "crc32::b8<90>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,53): warning C4838: Преобразование из "crc32::b8<91>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,61): warning C4838: Преобразование из "crc32::b8<100>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,61): warning C4838: Преобразование из "crc32::b8<101>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,61): warning C4838: Преобразование из "crc32::b8<102>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,61): warning C4838: Преобразование из "crc32::b8<103>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,61): warning C4838: Преобразование из "crc32::b8<104>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,61): warning C4838: Преобразование из "crc32::b8<105>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,61): warning C4838: Преобразование из "crc32::b8<106>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,61): warning C4838: Преобразование из "crc32::b8<107>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,69): warning C4838: Преобразование из "crc32::b8<112>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,69): warning C4838: Преобразование из "crc32::b8<113>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,69): warning C4838: Преобразование из "crc32::b8<114>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,69): warning C4838: Преобразование из "crc32::b8<115>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,69): warning C4838: Преобразование из "crc32::b8<124>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,69): warning C4838: Преобразование из "crc32::b8<125>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,69): warning C4838: Преобразование из "crc32::b8<126>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,69): warning C4838: Преобразование из "crc32::b8<127>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,77): warning C4838: Преобразование из "crc32::b8<128>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,77): warning C4838: Преобразование из "crc32::b8<129>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,77): warning C4838: Преобразование из "crc32::b8<130>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,77): warning C4838: Преобразование из "crc32::b8<131>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,77): warning C4838: Преобразование из "crc32::b8<140>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,77): warning C4838: Преобразование из "crc32::b8<141>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,77): warning C4838: Преобразование из "crc32::b8<142>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,77): warning C4838: Преобразование из "crc32::b8<143>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,85): warning C4838: Преобразование из "crc32::b8<148>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,85): warning C4838: Преобразование из "crc32::b8<149>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,85): warning C4838: Преобразование из "crc32::b8<150>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,85): warning C4838: Преобразование из "crc32::b8<151>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,85): warning C4838: Преобразование из "crc32::b8<152>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,85): warning C4838: Преобразование из "crc32::b8<153>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,85): warning C4838: Преобразование из "crc32::b8<154>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,85): warning C4838: Преобразование из "crc32::b8<155>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,93): warning C4838: Преобразование из "crc32::b8<164>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,93): warning C4838: Преобразование из "crc32::b8<165>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,93): warning C4838: Преобразование из "crc32::b8<166>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,93): warning C4838: Преобразование из "crc32::b8<167>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,93): warning C4838: Преобразование из "crc32::b8<168>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,93): warning C4838: Преобразование из "crc32::b8<169>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,93): warning C4838: Преобразование из "crc32::b8<170>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,93): warning C4838: Преобразование из "crc32::b8<171>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,101): warning C4838: Преобразование из "crc32::b8<176>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,101): warning C4838: Преобразование из "crc32::b8<177>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,101): warning C4838: Преобразование из "crc32::b8<178>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,101): warning C4838: Преобразование из "crc32::b8<179>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,101): warning C4838: Преобразование из "crc32::b8<188>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,101): warning C4838: Преобразование из "crc32::b8<189>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,101): warning C4838: Преобразование из "crc32::b8<190>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,101): warning C4838: Преобразование из "crc32::b8<191>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,109): warning C4838: Преобразование из "crc32::b8<196>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,109): warning C4838: Преобразование из "crc32::b8<197>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,109): warning C4838: Преобразование из "crc32::b8<198>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,109): warning C4838: Преобразование из "crc32::b8<199>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,109): warning C4838: Преобразование из "crc32::b8<200>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,109): warning C4838: Преобразование из "crc32::b8<201>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,109): warning C4838: Преобразование из "crc32::b8<202>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,109): warning C4838: Преобразование из "crc32::b8<203>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,117): warning C4838: Преобразование из "crc32::b8<208>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,117): warning C4838: Преобразование из "crc32::b8<209>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,117): warning C4838: Преобразование из "crc32::b8<210>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,117): warning C4838: Преобразование из "crc32::b8<211>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,117): warning C4838: Преобразование из "crc32::b8<220>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,117): warning C4838: Преобразование из "crc32::b8<221>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,117): warning C4838: Преобразование из "crc32::b8<222>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,117): warning C4838: Преобразование из "crc32::b8<223>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,125): warning C4838: Преобразование из "crc32::b8<224>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,125): warning C4838: Преобразование из "crc32::b8<225>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,125): warning C4838: Преобразование из "crc32::b8<226>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,125): warning C4838: Преобразование из "crc32::b8<227>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,125): warning C4838: Преобразование из "crc32::b8<236>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,125): warning C4838: Преобразование из "crc32::b8<237>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,125): warning C4838: Преобразование из "crc32::b8<238>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,125): warning C4838: Преобразование из "crc32::b8<239>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,133): warning C4838: Преобразование из "crc32::b8<244>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,133): warning C4838: Преобразование из "crc32::b8<245>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,133): warning C4838: Преобразование из "crc32::b8<246>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,133): warning C4838: Преобразование из "crc32::b8<247>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,133): warning C4838: Преобразование из "crc32::b8<248>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,133): warning C4838: Преобразование из "crc32::b8<249>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,133): warning C4838: Преобразование из "crc32::b8<250>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(1182,133): warning C4838: Преобразование из "crc32::b8<251>::<unnamed-enum-b1>" в "const crc32_t" требует сужающего преобразования.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(193,54): warning C4244: инициализация: преобразование "_Ty" в "_Ty2", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty2=`anonymous-namespace'::PowiResolver::cost_t
+          ]
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(10825): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<`anonymous-namespace'::PowiResolver::int_exponent_t,`anonymous-namespace'::PowiResolver::cost_t>::pair<`anonymous-namespace'::PowiResolver::int_exponent_t&,double,0>(_Other1,_Other2 &&) noexcept"
+          with
+          [
+              _Other1=`anonymous-namespace'::PowiResolver::int_exponent_t &,
+              _Other2=double
+          ]
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(10825): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<`anonymous-namespace'::PowiResolver::int_exponent_t,`anonymous-namespace'::PowiResolver::cost_t>::pair<`anonymous-namespace'::PowiResolver::int_exponent_t&,double,0>(_Other1,_Other2 &&) noexcept"
+          with
+          [
+              _Other1=`anonymous-namespace'::PowiResolver::int_exponent_t &,
+              _Other2=double
+          ]
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(4241,4): warning C4244: инициализация: преобразование "Value_t" в "unsigned long", возможна потеря данных
+          with
+          [
+              Value_t=double
+          ]
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(4286): message : выполняется компиляция ссылки на экземпляр шаблон функции "int `anonymous-namespace'::fpEstimatePrecision<Value_t>(Value_t)"
+          with
+          [
+              Value_t=double
+          ]
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(9660): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool `anonymous-namespace'::ConstantFolding_PowOperations<Value_t>(FPoptimizer_CodeTree::CodeTree<Value_t> &)"
+          with
+          [
+              Value_t=double
+          ]
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(8022): message : выполняется компиляция ссылки на экземпляр шаблон функции "void FPoptimizer_CodeTree::ConstantFolding<Value_t>(FPoptimizer_CodeTree::CodeTree<Value_t> &)"
+          with
+          [
+              Value_t=double
+          ]
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(8021): message : во время компиляции функции-члена класс шаблон "void FPoptimizer_CodeTree::CodeTree<Value_t>::Rehash(bool)"
+          with
+          [
+              Value_t=double
+          ]
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(8217): message : выполняется компиляция ссылки на экземпляр шаблон функции "void FPoptimizer_CodeTree::CodeTree<Value_t>::Rehash(bool)"
+          with
+          [
+              Value_t=double
+          ]
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(8752): message : во время компиляции функции-члена класс шаблон "void FPoptimizer_CodeTree::CodeTree<Value_t>::GenerateFrom(const FunctionParserBase<Value_t>::Data &,const std::vector<FPoptimizer_CodeTree::CodeTree<Value_t>,std::allocator<FPoptimizer_CodeTree::CodeTree<Value_t>>> &,bool)"
+          with
+          [
+              Value_t=double
+          ]
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(8744): message : выполняется компиляция ссылки на экземпляр шаблон функции "void FPoptimizer_CodeTree::CodeTree<Value_t>::GenerateFrom(const FunctionParserBase<Value_t>::Data &,const std::vector<FPoptimizer_CodeTree::CodeTree<Value_t>,std::allocator<FPoptimizer_CodeTree::CodeTree<Value_t>>> &,bool)"
+          with
+          [
+              Value_t=double
+          ]
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(4688): message : во время компиляции функции-члена класс шаблон "FPoptimizer_CodeTree::CodeTree<Value_t>::CodeTree(void)"
+          with
+          [
+              Value_t=double
+          ]
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(11717): message : выполняется компиляция ссылки на экземпляр шаблон функции "FPoptimizer_CodeTree::CodeTree<Value_t>::CodeTree(void)"
+          with
+          [
+              Value_t=double
+          ]
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(11717): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "FPoptimizer_CodeTree::CodeTree<Value_t>"
+          with
+          [
+              Value_t=double
+          ]
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fpoptimizer.cc(11714): message : во время компиляции функции-члена класс шаблон "void FunctionParserBase<double>::Optimize(void)"
+C:\Users\Rosatom\source\repos\complex_visualisation\parser\fparser.hh(188): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "FunctionParserBase<double>"
+  Создание кода...
+  complex_visualisation.vcxproj -> C:\Users\Rosatom\source\repos\complex_visualisation\Debug\complex_visualisation.exe
